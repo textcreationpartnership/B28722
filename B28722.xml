@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons given for the necessity of altering the method slaters now go by in setting up their slate for sale, and also the manner they now lay it for the covering their buildings.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28722</idno><idno type="EEBO-CITATION">99885978</idno>
+  <idno type="VID">186348</idno>
+  <idno type="EEBO-PROQUEST">2240886799</idno>
+  
+            <idno type="STC">Wing R521</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[150]</idno>
+            <idno type="STC">ESTC R225251</idno>
+            <idno type="PROQUEST">ocm99885978</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885978e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186348)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[145])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons given for the necessity of altering the method slaters now go by in setting up their slate for sale, and also the manner they now lay it for the covering their buildings.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Slate industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Slate --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:186348:1"/>
+            <head>REASONS GIVEN FOR THE <hi>Necessity of altering the Method Slaters now go by in setting up their Slate for Sale, and also the manner they now lay it for the Covering their Buildings.</hi>
+            </head>
+            <p n="1">I. THOSE that dig their Slate in Winter pretend to set them up in Heaps and Thousands, with all Sizes jumbled together, which should be sixscore to the hundred, and have for a long time abus'd the Country by setting up two, three, nay sometimes four hundred less than they pretend, and besides put in many Stones that are no way useful when they are brought to their Work, except they be for Shells or Boulsters, neither of which should be made use of, if their Work lay true and in good Order.</p>
+            <p n="2">II. The Slates they now use, of the largest Size, may be from ten to twenty Inches long; but not above four, five, six, seven or eight Inches square in Depth at the Bottom, which square Part of the Stone is only useful to the Work, part of which is laid outward, in Proportion to the Depth that Square bears, and the upper Part above that Square is of no other use to the Covering, but to Load and Incumber the said Roof; besides, they are forc'd to make use of so ma<g ref="char:EOLhyphen"/>ny Shells and Boulsters to support that upper irregular Part of the Slate they lay on, that adds so much more to the Weight as to make it double what it ought to be.</p>
+            <p n="3">III. Their Rule, by which they pretend to Lath by and lay their Slate upon, is of little use as they manage it, but to sup<g ref="char:EOLhyphen"/>port it outward at the Bottom, so far as the square Part of the Stone and the upper irregular Part of every Stone is fill'd up, and supported with the Shells and Boulsters they are forc'd to make use of; and the Pins they pretend to hang their Slate by upon the Lath hath not half of them any hold or dependance upon the same, which may be at any time seen by examining the inward Side of their Work, and besides will also find that the Shells and Boulsters they are forc'd to make use of are generally loose, and apt to shake and fall in every high Wind, which decays their Work in very few Years, though to outward Appearance at first looks fair.</p>
+            <p>These Abuses hath almost ruin'd their Profession with their Commodity, which is known to be of Value, if made use of to the best Advantage, being capable of great Improvements, which hitherto hath been lost, but is here endeavour'd to be set forth.</p>
+            <p>But the Slaters have some Excuse for their Abuses in their Sett, when those that Buy them will not allow a Price to make them live, and those poor Men must Sell when they are got, or starve, it having been their whole Winter's Work: But they can have no Excuse for the Defects of their Work in Covering, which wrongs the Builder much more than their Sett wrongs the Buyer.</p>
+         </div>
+         <div type="part">
+            <head>
+               <hi>RULES</hi> offer'd to prev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt the Abuses menti<g ref="char:EOLhyphen"/>on'd, and a new Meth<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> propos'd to Recover the Reputation of the Saters Profession, and their Slate which is tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght to be the best and lightest Covering we h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve in <hi>England,</hi> and the most durable, if made use of to the best Advantage it will bear which will bring their Commodity to the Perfection it deserves.</head>
+            <p n="1">I. EVERY Slater that raises Slate in Winter should Square his Stones both at the Top as well as at the Bottom, to be both Ends of an even Breacth, as far as the Slate will bear it in Length, and no Part of the Stone to be left above the Square, but should all be in the Shape of Tile in Proportion, according to the Rules entred in this second and third Column, and to be set up according to their Dimensions in Rows and Hundreds being six<g ref="char:EOLhyphen"/>score to the hundred, the least Size to be six Inches in Length, and three in Breadth, and no Stones to be set up in the said Rows, but what shall be useful in their Places.</p>
+            <p n="2">II. Ten such Rows should make the thousand, all to be of the same Dimensions; and in the same manner must every Degree be set up, from the least to the largest Size, as enter'd in the second and third Column, and the Workman may make use of what Scantling he pleases, and order his Courses as he thinks fit, but will have occasion for no Shells; but a Boulster may be properly made use of in such Places where a Stone may happen to fall Hol<g ref="char:EOLhyphen"/>low, and may there be fixt in as fast as the Slate it self, without any appearance more within than without; and thus the whole Work will appear on both Sides even, like a perfect Shell of Stone, and not above half the Weight they now make it.</p>
+            <p n="3">III. The Lath must be streight and good, and laid exactly true and even, as if they were for Tile, and according to the Courses and Dimensions of the Stone they design to make use of, that eve<g ref="char:EOLhyphen"/>ry Pin may hang and depend upon the Lath; then there will be no want of any thing to support any Part of it, but one Stone will rest upon the other, and be laid so far out as will it self support the upper Part that hangs upon the Lath; and if the Outside be laid true, it will be the same within, being Square alike at both Ends and Sides, which will prevent the Lumber they are now forc'd to stuff in to support it; and the Workman may order his Courses in such manner as to make the Middle of every Slate cover the Joint of the Course below it, like Tile; and this will make the Work of such Strength and Value, that the Slater will deserve to have something added to the Price of his Work, as well as to his Com<g ref="char:EOLhyphen"/>modity; and a good Slater will make a good Tiler, for both of them Trades will have almost the same Dependance and Rule to go by.</p>
+            <p>These are the Rules to prevent the Abuses of the Slaters Trade, and the Country from being any more deceiv'd; and, if they are ob<g ref="char:EOLhyphen"/>serv'd, will in few Years recover the Reputation of their Profession, and the Commodity by which they live, and force them to make use of both to their Credit, and the Service of their Country, and bring their Covering to be as Light as Tile.</p>
+            <p>These Slates are to be had near <hi>Stamford</hi> in <hi>Lincolnshire</hi> Squar<g ref="char:EOLhyphen"/>ed as herein mentioned, or in the Rough, and Squared at the Build<g ref="char:EOLhyphen"/>ing, which may prove to be the cheapest way, and best liked by the Workman.</p>
+            <p>The Prices enter'd in the first
+<table>
+                  <row>
+                     <cell role="label">State Num.</cell>
+                     <cell role="label">Inches Long.</cell>
+                     <cell role="label">Price Bd</cell>
+                     <cell role="label">Per L.</cell>
+                     <cell role="label">M S.</cell>
+                     <cell>L. S.</cell>
+                  </row>
+                  <row>
+                     <cell>1st</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2d</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3d</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4h</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>5t</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3:10</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>14</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7:0</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>18</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>.</cell>
+                     <cell>10:0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>20:10</cell>
+                  </row>
+               </table> Prints went down to twenty thousand, and up to twenty four Inches in Length, and twelve in Breadth, in proportion to the same Rule now Enter'd in the three first figured Columns; but the six last and largest Sizes, are by Experience found not only to be the least Useful, but raises the Charge to such a Price as is unnecessary both for the Build<g ref="char:EOLhyphen"/>er and the Workman.</p>
+            <p>And it plainly appears the fourteen thousand here Enter'd, are the most useful Slates for all sorts of Buildings, and makes the neatest and strongest Work.</p>
+            <p>But the Fives, which is the first and smallest Size, doth the best for any upright Work; which it performs with great Strength and Perfection.</p>
+            <p>And the nine thousand which follows them, are better to be made use of for all sorts of Roofs than the largest Stone; and makes the most compleat and strongest Work, and takes up much less Lime than the Old Method. And the four last Si<g ref="char:EOLhyphen"/>zes here Enter'd, is proper to be made use of for the Eaves and Ridge; it being absolutely Ne<g ref="char:EOLhyphen"/>cessary to Slate the Top double with that Slate, as well as the Bottom with any two of the said four Courses, which looks Neat, and like a Verge on the Top; and binds and strengthens all the Courses downwards.</p>
+            <p>And the Person that hath given himself the Trouble to Improve this Work, hath made such Experience of it, that he finds it abso<g ref="char:EOLhyphen"/>lutely Necessary to set forth this New Table of the Prices, as the Slaters can afford them to Live by their Profession, which they could not have done at the Rates before Enter'd. And it is not difficult to be seen, that the six largest Sizes now left out, which are not to be got without great Difficulty and Charge, was the Oc<g ref="char:EOLhyphen"/>casion of setting these that are most Useful at a lower Price than the Slater could Afford them at; it being found, that every thousand, one with another, cannot be dressed and squared Top and Bottom under four Shillings <hi>per</hi> Thousand, which is a great Addition to the Price. And notwithstanding they are very little above the Price of the Old Method, it appearing that the fourteen thousand here Enter'd, which comes but to twenty Pounds ten Shillings, will cover within a third Part as much as thirty Heaps of the Old Sett, which the Slaters pretend to Sell for the same Mony.</p>
+            <p>And if the whole Charge of a Rood of Slating in this Manner should amount to a third Part more than the Old Method, it is much the Cheaper, considering the Goodness of this Work, and the Imper<g ref="char:EOLhyphen"/>fection of the other, which is known not to keep any Building dry, and must be constantly Repaired after seven or eight Years: And this New Method well Perform'd, will in no Man's Age need any thing to be done at it.</p>
+            <p>And after this, neither the Country, nor the Workman, shall be given any more Trouble, but leave them both to take which Me<g ref="char:EOLhyphen"/>thod they please, and like best; knowing Old Customs are hard to be broke either by Workmen or Builders.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
